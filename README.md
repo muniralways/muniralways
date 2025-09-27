@@ -8,7 +8,8 @@
 👑 Web Developer | 🖊️ Code Lover | 🎤 Knowledge Sharer
 </p>  
 
-![Profile views](https://gpvc.arturio.dev/muniralways)  
+![Profile Views](https://img.shields.io/badge/Profile-Views-informational?style=flat&logo=github)
+
 
 <p align="left"> 
   <a href="https://twitter.com/muniralways" target="blank">
