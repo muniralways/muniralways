@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi there, I'm Shirajam Munir 👋</h1>
 
 <p align="center">
@@ -191,4 +191,4 @@ pie title GitHub Activity Distribution
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"/>
 </a>
 </p>
-````
+
