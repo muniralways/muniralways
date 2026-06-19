@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
 name: Shirajam Munir
@@ -38,119 +38,51 @@ specialty: WordPress | ReactJS | Node.js | Express | JavaScript | PHP
 experience: 100+ client projects delivered
 currently_learning: Advanced Node.js & Express backend architecture
 fun_fact: I debug code faster than I debug my own life 😄
-```
 
-I'm a **Full Stack Web Developer** passionate about building error-free websites and web apps with **100% client satisfaction**. I love to **learn, build, and share** my knowledge with the community. Over the years, I've delivered **100+ projects** for clients across the globe.
+I'm a Full Stack Web Developer passionate about building error-free websites and web apps with 100% client satisfaction. I love to learn, build, and share my knowledge with the community. Over the years, I've delivered 100+ projects for clients across the globe.
 
-Most of my work revolves around **WordPress**, but I also love building modern, dynamic applications with **ReactJS, Node.js, Express, JavaScript, and PHP**.
+Most of my work revolves around WordPress, but I also love building modern, dynamic applications with ReactJS, Node.js, Express, JavaScript, and PHP.
 
-- 🔭 Currently working on full-stack apps using the **MERN-style stack** (MongoDB / Express / React / Node)
-- 🌱 Currently leveling up my **Node.js & Express** backend skills
-- 👯 Open to collaborating on **freelance & open-source** projects
-- 💬 Ask me about **WordPress, React, PHP, Node.js & Express**
-- 📫 Reach me at **muniralways@gmail.com**
-- ⚡ Fun fact: I turn coffee into clean code ☕➡️💻
+🔭 I'm currently working on full-stack apps using the MERN-style stack (MongoDB / Express / React / Node)
 
-<br clear="right"/>
+🌱 I'm currently leveling up my Node.js & Express backend skills
 
----
+👯 I'm open to collaborating on freelance & open-source projects
 
-### 🛠️ Tech Stack
+💬 Ask me about WordPress, React, PHP, Node.js & Express
 
-**🎨 Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+📫 Reach me at muniralways@gmail.com
 
-**⚙️ Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+⚡ Fun fact: I turn coffee into clean code ☕➡️💻
 
-**🛠️ Tools & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+🛠️ Tech Stack
+🎨 Frontend
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
+⚙️ Backend
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+🛠️ Tools & Design
+<p align="center"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muniralways&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Munir's GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muniralways&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muniralways&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muniralways&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="50%"/> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=muniralways&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </p>
+💼 Latest Projects
+Project	Description	Tech Stack
+🛒 E-Commerce Platform	Full-featured online store with payment gateway	React, Node.js, MongoDB, Stripe
+📱 Portfolio Builder	Drag-and-drop portfolio website builder	WordPress, PHP, React
+📊 Dashboard Analytics	Real-time data visualization dashboard	React, Express, Chart.js, MongoDB
+🚀 Task Management	Collaborative project management tool	Node.js, Express, MongoDB, Socket.io
 
----
+pie title GitHub Activity Distribution
+  "Commits" : 45
+  "Pull Requests" : 15
+  "Issues" : 10
+  "Code Reviews" : 20
+  "Documentation" : 10
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muniralways&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Munir's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muniralways&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muniralways&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muniralways&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="50%"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muniralways&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 💼 Latest Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🛒 **E-Commerce Platform** | Full-featured online store with payment gateway | React, Node.js, MongoDB, Stripe |
-| 📱 **Portfolio Builder** | Drag-and-drop portfolio website builder | WordPress, PHP, React |
-| 📊 **Dashboard Analytics** | Real-time data visualization dashboard | React, Express, Chart.js, MongoDB |
-| 🚀 **Task Management** | Collaborative project management tool | Node.js, Express, MongoDB, Socket.io |
-
-> ⚠️ Replace these with your actual project names, descriptions, and repo links.
-
----
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.facebook.com/muniralways" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/muniralways/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/muniralways" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muniralways/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muniralways@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/muniralways" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-### 📬 For Business Inquiries
-
-<p align="center">
-  <b>📩 muniralways@gmail.com</b><br>
-  💼 Open for freelance & collaboration opportunities — let's build something great together!
-</p>
-
-### 💖 Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/muniralways" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
-</p>
+🤝 Let's Connect!
+<p align="center"> <a href="https://www.facebook.com/muniralways" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.instagram.com/muniralways/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://twitter.com/muniralways" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muniralways/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:muniralways@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/muniralways" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+📬 For Business Inquiries
+<p align="center"> <b>📩 muniralways@gmail.com</b><br> 💼 Open for freelance & collaboration opportunities — let's build something great together! </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/> </p>
+💖 Support Me
+<p align="center"> <a href="https://www.buymeacoffee.com/muniralways" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" /></a> </p> ```
