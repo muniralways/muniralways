@@ -1,9 +1,7 @@
  
 <h1 align="center">Hi there, I'm Shirajam Munir 👋</h1>
 
-<p align="center">
-  <img src="https://i.ibb.co/3m0GmXy/banner.png" alt="Munir Banner" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;WordPress+%7C+ReactJS+%7C+Node.js+%7C+Express;Building+Clean+%26+Scalable+Web+Apps;100%25+Client+Satisfaction+Guaranteed!" alt="Typing SVG" />
