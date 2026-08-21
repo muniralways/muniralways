@@ -41,7 +41,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-🚀 **Shirajam Munir** is a passionate **Full Stack Web Developer** dedicated to building error-free, scalable, and high-performance websites with a strong focus on client satisfaction. Specializing in **WordPress, React.js, Node.js, Express.js, JavaScript, and PHP**, he has successfully delivered **100+ client projects** across various industries. Currently, he is expanding his expertise in **Advanced Node.js and Express Backend Architecture** to create more secure and scalable web applications. He enjoys turning complex ideas into clean, efficient solutions and believes that great code should be both powerful and maintainable. ⚡ *Fun Fact: He debugs code faster than he debugs his own life!* 😄
+🚀 **Shirajam Munir** is a passionate **Full Stack Web Developer** dedicated to building error-free, scalable, and high-performance websites with a strong focus on client satisfaction. Specializing in **WordPress, React.js, Node.js, Express.js, JavaScript, and PHP**, he has successfully delivered **10+ client projects** across various industries. Currently, he is expanding his expertise in **Advanced Node.js and Express Backend Architecture** to create more secure and scalable web applications. He enjoys turning complex ideas into clean, efficient solutions and believes that great code should be both powerful and maintainable. ⚡ *Fun Fact: He debugs code faster than he debugs his own life!* 😄
 
 
 
